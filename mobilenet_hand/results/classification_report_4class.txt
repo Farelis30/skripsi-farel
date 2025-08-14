@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+        maju      1.000     0.860     0.925        50
+       kanan      0.781     1.000     0.877        50
+        kiri      1.000     0.920     0.958        50
+        stop      1.000     0.940     0.969        50
+
+    accuracy                          0.930       200
+   macro avg      0.945     0.930     0.932       200
+weighted avg      0.945     0.930     0.932       200
